@@ -1,4 +1,4 @@
-# OpenSecTools
+# SecureLab
 
 A collection of cybersecurity tools written in **C++** for learning, experimentation, and practical security research.
 
